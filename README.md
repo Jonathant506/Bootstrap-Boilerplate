@@ -1,1 +1,1 @@
-# BootstrapPractice
+# Bootstrap-Boilerplate
